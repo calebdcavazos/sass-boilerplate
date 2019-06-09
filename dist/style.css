@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+  font-size: 100%; }
+
+*, *:before, *:after {
+  box-sizing: inherit; }
+
+body {
+  padding: 20px;
+  background-color: #cccccc;
+  color: #0000ff;
+  font: Helvetica, sans-serif; }
+
+/*# sourceMappingURL=style.css.map */
