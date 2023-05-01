@@ -13,7 +13,7 @@
     "gulp": "^4.0.2",
     "gulp-sass": "^4.0.2",
     "autoprefixer": "^9.5.0",
-    "cssnano": "^2.6.1",
+    "cssnano": "^6.0.1",
     "gulp-postcss": "^8.0.0",
     "gulp-replace": "^1.0.0",
     "gulp-sourcemaps": "^2.6.5",
